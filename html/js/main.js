@@ -54,9 +54,6 @@ boton.addEventListener("click", (event) => {
                   })">
                     Ver más
                   </button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">
-                    Edit
-                  </button>
                 </div>
                 <small class="text-body-secondary">$${product.price}</small>
               </div>
